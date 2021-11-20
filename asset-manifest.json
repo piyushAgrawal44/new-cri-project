@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/new-cri-project/static/css/main.9c1a92c6.chunk.css",
+    "main.js": "/new-cri-project/static/js/main.47aadd5c.chunk.js",
+    "main.js.map": "/new-cri-project/static/js/main.47aadd5c.chunk.js.map",
+    "runtime-main.js": "/new-cri-project/static/js/runtime-main.be7b7513.js",
+    "runtime-main.js.map": "/new-cri-project/static/js/runtime-main.be7b7513.js.map",
+    "static/js/2.6ca30f0f.chunk.js": "/new-cri-project/static/js/2.6ca30f0f.chunk.js",
+    "static/js/2.6ca30f0f.chunk.js.map": "/new-cri-project/static/js/2.6ca30f0f.chunk.js.map",
+    "static/js/3.f1d55ae4.chunk.js": "/new-cri-project/static/js/3.f1d55ae4.chunk.js",
+    "static/js/3.f1d55ae4.chunk.js.map": "/new-cri-project/static/js/3.f1d55ae4.chunk.js.map",
+    "index.html": "/new-cri-project/index.html",
+    "static/css/main.9c1a92c6.chunk.css.map": "/new-cri-project/static/css/main.9c1a92c6.chunk.css.map",
+    "static/js/2.6ca30f0f.chunk.js.LICENSE.txt": "/new-cri-project/static/js/2.6ca30f0f.chunk.js.LICENSE.txt",
+    "static/media/1.034f1e05.png": "/new-cri-project/static/media/1.034f1e05.png",
+    "static/media/2.8563a9b8.png": "/new-cri-project/static/media/2.8563a9b8.png",
+    "static/media/3.5d60ad10.png": "/new-cri-project/static/media/3.5d60ad10.png",
+    "static/media/logo.c3067270.png": "/new-cri-project/static/media/logo.c3067270.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be7b7513.js",
+    "static/js/2.6ca30f0f.chunk.js",
+    "static/css/main.9c1a92c6.chunk.css",
+    "static/js/main.47aadd5c.chunk.js"
+  ]
+}
